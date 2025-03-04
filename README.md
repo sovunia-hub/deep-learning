@@ -1,6 +1,6 @@
 # 🧠 Deep Learning Projects Repository
 
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue) ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue) ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange) ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.0%2B-orange) ![PyTorch](https://img.shields.io/badge/PyTorch-1.10%2B-red)
 
 Welcome to my repository featuring various deep learning projects! 🚀
 
