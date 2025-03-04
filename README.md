@@ -30,7 +30,7 @@ Natural language processing (NLP) approach to classify tweets as disaster-relate
 ## 🔧 Installation and Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-deep-learning-repo.git
+   git clone https://github.com/sovunia-hub/deep-learning.git
    ```
 2. Open Jupyter Notebook and run the project of your choice.
 
